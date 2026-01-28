@@ -34,6 +34,8 @@
 - `git clone` — create a local copy of a remote repository
 - `git remote -v` — display the URLs of remote repositories for fetch and push
 - `git stash` — temporarily save uncommitted changes so you can work on something else
+- `git reset` — undo commits or unstage changes by moving the branch pointer
+
 
 
 
