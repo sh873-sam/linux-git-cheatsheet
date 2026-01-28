@@ -7,7 +7,7 @@
 - `rm` — remove files or directories
 - `mkdir` — make new directory
 - `touch` — create an empty file
-
+- `cp` — copy files or directories
 
 
 
