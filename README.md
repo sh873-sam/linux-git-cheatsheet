@@ -4,6 +4,7 @@
 - `pwd` — print working directory
 - `ls` — list directory contents
 - `cd` — change directory
+- `mkdir` — make new directory
 
 
 ## Git Commands
