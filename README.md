@@ -26,7 +26,7 @@
 - `git diff` — show changes not yet staged 
 - `git log` — view commit history
 - `git diff` — show changes between commits or working directory
-
+- `git checkout <branch>` — switch to another branch
 
 
 
