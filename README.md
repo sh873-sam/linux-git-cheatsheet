@@ -29,6 +29,8 @@
 - `git checkout <branch>` — switch to another branch
 - `git checkout` — switch between branches or restore files
 - `git clone <repo-url>` — create a local copy of a remote Git repository
+- `git clone` — create a local copy of a remote repository
+
 
 
 
