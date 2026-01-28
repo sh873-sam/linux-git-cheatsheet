@@ -16,6 +16,7 @@
 
 
 ## Git Commands
+- `git status` — show working tree status
 
 
 
