@@ -32,6 +32,8 @@
 - `git checkout` — switch between branches or restore files
 - `git fetch` — download changes from a remote repository without merging them into the current branch
 - `git clone` — create a local copy of a remote repository
+- `git remote -v` — display the URLs of remote repositories for fetch and push
+
 
 
 
