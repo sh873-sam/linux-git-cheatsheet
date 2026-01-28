@@ -33,5 +33,6 @@
 
 
 
+> Note: Git commands and file edits were practiced using GitHub Desktop and browser-based tools due to system restrictions preventing local Git CLI installation. Command usage and workflow understanding are demonstrated through branching, merging, and documented commands. Screenshots available as proof if needed.
 
 
