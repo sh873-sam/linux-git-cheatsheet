@@ -30,6 +30,8 @@
 - `git checkout` — switch between branches or restore files
 - `git clone <repo-url>` — create a local copy of a remote Git repository
 - `git clone` — create a local copy of a remote repository
+- `git stash` — temporarily save uncommitted changes so you can work on something else
+
 
 
 
