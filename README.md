@@ -23,6 +23,8 @@
 - `git push` — upload local commits to a remote repository
 - `git merge` — merge a branch into the current branch
 - `git branch` — list, create, or delete branches
+- `git log` — view commit history
+
 
 
 
