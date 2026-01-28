@@ -7,6 +7,7 @@
 - `rm` — remove files or directories
 - `mkdir` — make new directory
 - `touch` — create an empty file
+- `mv` — move or rename files
 
 
 
