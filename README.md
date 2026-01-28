@@ -8,6 +8,7 @@
 - `mkdir` — make new directory
 - `touch` — create an empty file
 - `mv` — move or rename files
+- `cp` — copy files or directories
 
 
 
