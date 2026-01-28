@@ -24,6 +24,9 @@
 - `git merge` — merge a branch into the current branch
 - `git branch` — list, create, or delete branches
 - `git diff` — show changes not yet staged 
+- `git log` — view commit history
+
+
 
 
 
