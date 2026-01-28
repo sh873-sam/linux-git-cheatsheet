@@ -33,6 +33,8 @@
 - `git fetch` — download changes from a remote repository without merging them into the current branch
 - `git clone` — create a local copy of a remote repository
 - `git stash` — temporarily save uncommitted changes so you can work on something else
+- `git reset` — undo commits or unstage changes by moving the branch pointer
+
 
 
 
