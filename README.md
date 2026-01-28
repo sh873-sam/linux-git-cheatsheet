@@ -8,6 +8,8 @@
 - `mkdir` — make new directory
 - `touch` — create an empty file
 - `cp` — copy files or directories
+- `chmod` — change file permissions
+
 
 
 
