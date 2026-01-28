@@ -9,6 +9,8 @@
 - `touch` — create an empty file
 - `mv` — move or rename files
 - `cp` — copy files or directories
+- `chmod` — change file permissions
+
 
 
 
