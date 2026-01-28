@@ -6,7 +6,7 @@
 - `cd` — change directory
 - `mkdir` — make new directory
 - `touch` — create an empty file
-
+- `cp` — copy files or directories
 
 
 ## Git Commands
