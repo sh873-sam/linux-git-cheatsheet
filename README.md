@@ -16,6 +16,9 @@
 
 
 ## Git Commands
+- `git status` — show working tree status
+- `git add` — stage changes for commit
+
 
 
 
