@@ -19,7 +19,9 @@
 - `git status` — show working tree status
 - `git commit -m "message"` — record staged changes
 - `git add` — stage changes for commit
+- `git pull` — fetch and merge changes from the remote repository
 - `git push` — upload local commits to a remote repository
+
 
 
 
