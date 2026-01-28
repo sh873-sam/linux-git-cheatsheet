@@ -17,6 +17,7 @@
 
 ## Git Commands
 - `git status` — show working tree status
+- `git commit -m "message"` — record staged changes
 - `git add` — stage changes for commit
 
 
