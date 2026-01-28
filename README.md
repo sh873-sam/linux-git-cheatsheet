@@ -28,6 +28,8 @@
 - `git diff` — show changes between commits or working directory
 - `git checkout <branch>` — switch to another branch
 - `git checkout` — switch between branches or restore files
+- `git clone <repo-url>` — create a local copy of a remote Git repository
+
 
 
 
