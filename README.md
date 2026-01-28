@@ -24,6 +24,8 @@
 - `git merge` — merge a branch into the current branch
 - `git branch` — list, create, or delete branches
 - `git log` — view commit history
+- `git checkout <branch>` — switch to another branch
+
 
 
 
