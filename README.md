@@ -26,6 +26,8 @@
 - `git diff` — show changes not yet staged 
 - `git log` — view commit history
 - `git checkout <branch>` — switch to another branch
+- `git clone <repo-url>` — create a local copy of a remote Git repository
+
 
 
 
