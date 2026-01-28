@@ -22,6 +22,8 @@
 - `git pull` — fetch and merge changes from the remote repository
 - `git push` — upload local commits to a remote repository
 - `git branch` — list, create, or delete branches
+- `git log` — view commit history
+
 
 
 
